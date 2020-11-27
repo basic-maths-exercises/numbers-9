@@ -22,7 +22,7 @@ where ![](https://render.githubusercontent.com/render/math?math=p_1), ![](https:
 
 and the one-by-one search for factors continues to find ![](https://render.githubusercontent.com/render/math?math=p_2), ![](https://render.githubusercontent.com/render/math?math=p_3) and so on.  Each time one of these factors is found the left-hand side of the above equation is divided by this number.  Once the code has finished running the right-hand side is equal to ![](https://render.githubusercontent.com/render/math?math=p_m) - the largest factor.
 
-__To complete this task I would like you to demonstrate that you understand the code in `main.py` by modifying it so that the code returns a python list containing all the prime factors of `N` rather than the largest factor only.__
+__To complete this task I would like you to demonstrate that you understand the code in `main.py` by modifying the function `primeDecomposition` so that it returns a python list containing all the prime factors of `N` rather than the largest factor only.__
 
 
 
